@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Gedearya
+- 👀 I’m interested in Coding and Tech
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node.Js, React.Js, SQL, etc
+- 💞️ I’m looking to collaborate on other programmer
+- 📫 How to reach me : https://gedearya.github.io/gedearya.github.io-ResumeArya-/
+
+<!---
+Gedearya/Gedearya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
