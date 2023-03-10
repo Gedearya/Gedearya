@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gedearya
 - 👀 I’m interested in Coding and Tech
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node.Js, React.Js, Git & Github, SQL, etc
+- 🌱 I’m currently learning HTML, CSS, Javascript, PHP, Node.Js, React.Js, Git & Github, SQL, etc
 - 💞️ I’m looking to collaborate on other programmer
 - 📫 How to reach me : https://gedearya.github.io/ResumeArya/
 
