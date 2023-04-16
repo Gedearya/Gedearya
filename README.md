@@ -1,6 +1,6 @@
 👋 Hi, I’m @Gedearya, I’m interested in Coding and Tech
 
-![done](https://user-images.githubusercontent.com/75374189/232328799-59342681-4ebd-4bf9-8a81-d0328f770b5d.gif)
+![gifpersonalweb](https://user-images.githubusercontent.com/75374189/232329233-513e02e8-20a3-4205-af6a-240c3722b392.gif)
 
 📫 Visit my Personal Website : https://www.gedearya.site/
 
