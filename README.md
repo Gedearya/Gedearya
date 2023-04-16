@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Gedearya
-- 👀 I’m interested in Coding and Tech
-- 💞️ I’m looking to collaborate on other programmer
-- 📫 Visit my Personal Website : https://www.gedearya.site/
+👋 Hi, I’m @Gedearya, I’m interested in Coding and Tech
+
+![done](https://user-images.githubusercontent.com/75374189/232328799-59342681-4ebd-4bf9-8a81-d0328f770b5d.gif)
+
+📫 Visit my Personal Website : https://www.gedearya.site/
 
 <br>
 
