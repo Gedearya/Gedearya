@@ -5,6 +5,10 @@
 ## I'm interested in Coding and Tech
 📫 Visit my Personal Website : https://www.gedearya.site/
 
+ <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=gedearya&style=flat-square&color=blue" />
+  </a>
+
 <br>
 
 # 🌐 Socials:
