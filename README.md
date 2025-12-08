@@ -44,17 +44,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📦 Featured Projects  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gedearya&repo=nama-repo&theme=material-palenight)](https://github.com/Gedearya/nama-repo)
-
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Gedearya&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
+<br>
+
 ## 💬 Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-## ⏳ Coding Stats (Wakatime)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gedearya&theme=material-palenight)
 
 
 <!---
