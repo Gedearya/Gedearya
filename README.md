@@ -49,8 +49,11 @@
 
 <br>
 
-## 🐍 Pixel Art Contribution Snake
-<img src="https://raw.githubusercontent.com/Gedearya/Gedearya/pixel-output/pixel-snake.svg" />
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gedearya/Gedearya/output/snake.svg" alt="Snake animation" />
+</p>
 
 <br>
 
