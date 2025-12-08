@@ -49,6 +49,11 @@
 
 <br>
 
+## 🐍 Pixel Art Contribution Snake
+<img src="https://raw.githubusercontent.com/Gedearya/Gedearya/pixel-output/pixel-snake.svg" />
+
+<br>
+
 ## 💬 Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
