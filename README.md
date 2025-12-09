@@ -44,9 +44,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gedearya&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gedearya&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&layout=compact)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Gedearya)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Gedearya) -->
 
 
 
