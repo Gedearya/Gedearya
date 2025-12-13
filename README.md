@@ -39,29 +39,23 @@
 <br>
 
 # 📈 GitHub Stats
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&border_radius=6) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&border_radius=6) 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gedearya&theme=tokyo-night)
 
-
-
-<!--![](https://github-readme-stats.vercel.app/api?username=Gedearya&theme=material-palenight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Gedearya&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gedearya&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true)
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gedearya&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gedearya&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&layout=compact)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Gedearya) -->
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Gedearya)
 
-
-
-
-<!--## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Gedearya&theme=dracula&no-frame=true&no-bg=true&margin-w=4) -->
+🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=Gedearya&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 <br>
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gedearya/Gedearya/output/snake.svg" alt="Snake animation" />
