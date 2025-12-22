@@ -5,12 +5,15 @@
 </a>
 
 <br>
-<br>
   
 ![done](https://user-images.githubusercontent.com/75374189/232329385-f36f7dda-0980-4f12-aa01-7921e07c5447.gif)
 
-## I'm interested in Coding and Tech
-📫 Visit my Personal Website : https://www.igdarya.com/ <br>
+# 👨‍💻 About Me:
+- 🔭 Currently working as Frontend Developer
+- 🌱 Exploring Fullstack (NextJS + NodeJS)
+- 🎯 Goal: Build a SaaS product
+- 💡 Interested in UI Engineering & System Design
+- 📫 Visit my Personal Website : https://www.igdarya.com/ 
 
 <br>
 
@@ -43,10 +46,8 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gedearya&theme=material-palenight&hide_border=true" height="160"/>
-<img src="https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true&layout=compact" height="160"/>
 </div>
-
 
 <!--- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gedearya&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&layout=compact)
