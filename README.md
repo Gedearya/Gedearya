@@ -25,7 +25,7 @@
 # 💻 Tech Stack:
 ## Programming / Markup / Styling Languange
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,nodejs,express,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
 </p>
 
 ## Libraries / Framework
