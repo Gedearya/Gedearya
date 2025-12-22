@@ -43,7 +43,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gedearya&theme=material-palenight&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gedearya&theme=material-palenight&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true&layout=compact" height="160"/>
 </div>
 
