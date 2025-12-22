@@ -30,12 +30,12 @@
 
 ## Libraries / Framework
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,bootstrap" />
 </p>
 
 ## Tools / Platform / Deploy
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,github,gitlab,bitbucket,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,postman,git,github,gitlab,bitbucket,openshift,netlify,vercel" />
 </p>
 
 <!-- ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white) ![Bamboo](https://img.shields.io/badge/Bamboo-0052CC.svg?style=for-the-badge&logo=bamboo&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) --> 
