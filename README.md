@@ -5,7 +5,7 @@
 </a>
 
 <br>
-  
+<!--- ![GitHub Streak](https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&border_radius=6) --->
 ![done](https://user-images.githubusercontent.com/75374189/232329385-f36f7dda-0980-4f12-aa01-7921e07c5447.gif)
 
 # 👨‍💻 About Me:
