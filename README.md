@@ -5,7 +5,7 @@
 </a>
 
 <br>
-<!--- ![GitHub Streak](https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&border_radius=6) --->
+
 ![done](https://user-images.githubusercontent.com/75374189/232329385-f36f7dda-0980-4f12-aa01-7921e07c5447.gif)
 
 # 👨‍💻 About Me:
@@ -47,6 +47,7 @@
 
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) --->
 
+
 <br>
 
 # 📈 GitHub Stats
@@ -54,7 +55,11 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gedearya&theme=tokyo-night) 
 
 <div align="center">
+  
 <img src="https://github-readme-stats.vercel.app/api?username=Gedearya&theme=material-palenight&hide_border=true" height="160"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&border_radius=6)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true&layout=compact" height="160"/>
 </div>
 
