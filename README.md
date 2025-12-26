@@ -50,7 +50,7 @@
 <br>
 
 # 📈 GitHub Stats
-<!--- ![GitHub Streak](https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&border_radius=6) --->
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gedearya&theme=tokyo-night) 
 
 <div align="center">
