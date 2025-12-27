@@ -55,7 +55,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gedearya&theme=tokyo-night) 
 
 <div align="center">
-  
 <img src="https://github-readme-stats.vercel.app/api?username=Gedearya&theme=material-palenight&hide_border=true" height="160"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&border_radius=6)
