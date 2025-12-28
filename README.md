@@ -47,7 +47,6 @@
 
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) --->
 
-
 <br>
 
 # 📈 GitHub Stats
@@ -81,7 +80,6 @@
 
 # 💬 Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 
 <!---
 Gedearya/Gedearya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
