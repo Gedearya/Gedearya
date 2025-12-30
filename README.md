@@ -8,6 +8,8 @@
 
 ![done](https://user-images.githubusercontent.com/75374189/232329385-f36f7dda-0980-4f12-aa01-7921e07c5447.gif)
 
+<br>
+
 # 👨‍💻 About Me:
 - 🔭 Currently working as Frontend Developer
 - 🌱 Exploring Fullstack (NextJS + NodeJS)
