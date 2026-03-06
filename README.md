@@ -56,16 +56,16 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gedearya&theme=tokyo-night) 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gedearya&theme=material-palenight&hide_border=true" height="160"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Gedearya&theme=material-palenight&hide_border=true" height="160"/> -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gedearya&theme=tokyonight&border_radius=6)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true&layout=compact" height="160"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true&layout=compact" height="160"/> -->
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gedearya&show_icons=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gedearya&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&layout=compact)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Gedearya)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Gedearya) -->
 
 <!--- 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Gedearya&theme=dracula&no-frame=true&no-bg=true&margin-w=4) --->
