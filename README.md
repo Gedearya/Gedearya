@@ -63,9 +63,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&theme=material-palenight&hide_border=true&layout=compact" height="160"/>
 </div>
 
-<!--- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gedearya&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gedearya&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gedearya&layout=compact)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Gedearya) --->
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Gedearya)
 
 <!--- 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=Gedearya&theme=dracula&no-frame=true&no-bg=true&margin-w=4) --->
